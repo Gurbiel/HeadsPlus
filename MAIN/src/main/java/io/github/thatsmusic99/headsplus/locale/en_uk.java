@@ -554,7 +554,7 @@ public class en_uk implements Locale {
 
     @Override
     public String noVault() {
-        return "{header} &cVault not found! Heads cannot be sold and challenge rewards can not add/remove groups.";
+        return "{header} &cVault/Economy plugin (e.g. Essentials) not found! Heads cannot be sold and challenge rewards can not add/remove groups.";
     }
 
     @Override

@@ -556,7 +556,7 @@ public class es_es implements Locale {
 
     @Override
     public String noVault() {
-        return "{header} &c¡Vault no detectado! Las cabezas no se pueden vender y los retos no pueden añadir/quitar grupos.";
+        return "{header} &c¡Vault/Economy plugin (p.ej. Essentials) no detectado! Las cabezas no se pueden vender y los retos no pueden añadir/quitar grupos.";
     }
 
     @Override

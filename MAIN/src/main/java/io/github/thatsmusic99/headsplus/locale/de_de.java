@@ -566,7 +566,7 @@ public class de_de implements Locale {
 
     @Override
     public String noVaultGroup() {
-        return "{header} &cVault konnte beim Start nicht gefunden werden! Gruppen können nicht hinzugefügt werden.";
+        return "{header} &cVault/Economy plugin (z.B. Essentials) konnte beim Start nicht gefunden werden! Gruppen können nicht hinzugefügt werden.";
     }
 
     @Override

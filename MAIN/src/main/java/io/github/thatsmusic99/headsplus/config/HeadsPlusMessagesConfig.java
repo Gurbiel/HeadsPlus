@@ -101,7 +101,7 @@ public class HeadsPlusMessagesConfig extends ConfigSettings {
         getConfig().addDefault("plugin-fail", "%h &cHeadsPlus has failed to start up correctly. An error report has been made in /plugins/HeadsPlus/debug");
         getConfig().addDefault("plugin-disabled", "%h &3HeadsPlus has been disabled!");
         getConfig().addDefault("faulty-theme", "{header} &3Faulty theme was put in! No theme changes will be made.");
-        getConfig().addDefault("no-vault", "{header} &cVault not found! Heads cannot be sold and challenge rewards can not add/remove groups.");
+        getConfig().addDefault("no-vault", "{header} &cVault/Economy plugin (e.g. Essentials) not found! Heads cannot be sold and challenge rewards can not add/remove groups.");
         getConfig().addDefault("no-vault-2", new en_uk().noVaultGroup());
         getConfig().addDefault("no-name-data", new en_uk().noNameData());
         getConfig().addDefault("no-lore-data", new en_uk().noLoreData());

@@ -557,7 +557,7 @@ public class ro_ro implements Locale {
 
     @Override
     public String noVault() {
-        return "%h &cVault nu a fost gasit! Șefii nu pot fi vanduti si recompensele provocatoare nu pot adauga/elimina grupuri.";
+        return "%h &cVault/Economy plugin (de exemplu Essentials) nu a fost gasit! Șefii nu pot fi vanduti si recompensele provocatoare nu pot adauga/elimina grupuri.";
     }
 
     @Override

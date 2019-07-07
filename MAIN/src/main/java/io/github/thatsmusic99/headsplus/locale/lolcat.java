@@ -553,7 +553,7 @@ public class lolcat implements Locale {
 
     @Override
     public String noVault() {
-        return "%h eh cudnt oh-pen deh vault!!";
+        return "%h eh cudnt oh-pen deh vault/economy plug (liek Essentials)!!";
     }
 
     @Override

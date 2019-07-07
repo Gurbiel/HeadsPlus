@@ -556,7 +556,7 @@ public class hu_hu implements Locale {
 
     @Override
     public String noVault() {
-        return "%h &cA Vault nem található! A fejeket nem lehet eladni, és a kihívás jutalmak nem tudnak hozzáadni/eltávolítani a csoportokat.";
+        return "%h &cA Vault/Economy plugin (például Essentials) nem található! A fejeket nem lehet eladni, és a kihívás jutalmak nem tudnak hozzáadni/eltávolítani a csoportokat.";
     }
 
     @Override

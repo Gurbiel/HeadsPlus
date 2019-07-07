@@ -556,7 +556,7 @@ public class fr_fr implements Locale {
 
     @Override
     public String noVault() {
-        return "{header} &cVault n''a pas été trouvée! Les têtes ne peuvent pas être vendues et les récompenses des challenges ne peuvent pas être ajoutés/retirés.";
+        return "{header} &cVault/Economy plugin (par exemple Essentials) n''a pas été trouvée! Les têtes ne peuvent pas être vendues et les récompenses des challenges ne peuvent pas être ajoutés/retirés.";
     }
 
     @Override
